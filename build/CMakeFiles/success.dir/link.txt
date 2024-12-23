@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/success.dir/main.cpp.o -o success

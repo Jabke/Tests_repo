@@ -1,8 +1,0 @@
-/home/galkin/projects/Tests_repo/build/CMakeFiles/success.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/uninstall.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/edit_cache.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/rebuild_cache.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/list_install_components.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/install.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/install/local.dir
-/home/galkin/projects/Tests_repo/build/CMakeFiles/install/strip.dir
